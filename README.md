@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mlzoo
-- 👀 I’m interested in video game
-- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me Wechat:LiuMingData
 
 <!---
