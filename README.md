@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mlzoo (Liu Ming， 刘明)
 - 💻 I am a data scientist at AWS.
-- 📫 How to reach me: Wechat:LiuMingData
+- 📫 How to reach me: lmloveu@qq.com
 - 🌍 My hobbies are traveling and playing game(Steam/Switch/JX3/Sausage Party).
 - 🏠 I currently live in Liaoning / Shanghai .
 <!---
