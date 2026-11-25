@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mlzoo (Liu Ming， 刘明)
 - 💻 I am a data scientist at AWS.
 - 🔬 Latest research: sole-author paper accepted at **NeurIPS 2026** — [The Alignment Tax Concentrates in Output Projections](https://neurips.cc/virtual/2026/loc/sydney/poster/152620)
+- ✍️ I write about LLM post-training (GRPO / DPO / reward design, project retrospectives) on Zhihu: [LLMCat](https://www.zhihu.com/people/AiCamp)
 - 📫 How to reach me: lmloveu@qq.com
 - 🌍 My hobbies are traveling and playing game(Steam/Switch/JX3/Sausage Party).
 - 🏠 I currently live in Liaoning / Shanghai .
